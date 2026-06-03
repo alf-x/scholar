@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+scholarly
+beautifulsoup4
+lxml
+requests
+fake-useragent
+httpx==0.27.0
